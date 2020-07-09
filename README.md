@@ -8,14 +8,10 @@ Por falar em desenvolvimento de software, dê uma olhada em alguns programinhas 
 
 Além disso tudo, também gosto de escrever sobre tecnologias, tocar baixo e ouvir música!
 
---
+Além daqui você pode me encontrar nas redes abaixo
 
-# Hi, I'm Odinei 🤓🤘
-
-I code software using Ruby on Rails for about 4 years and I like to do fun things!
-
-I'm a staff member of Ruby Users Group of São Paulo and an active member of the Ruby communities on Telegram like [Ruby Brasil](https://t.me/rubybrasil). I like to help people who are starting their careers, go to events and talk about software development.
-
-Speaking of software development, take a look at the projects page and take a look at some little programs I made!
-
-Besides that, I also like to write about technologies, play bass and listen to music!
+- [Blog](http://codingwithchopsticks.github.io/)
+- [Twitter](https://www.twitter.com/odineiramone/)
+- [LinkedIn](https://www.linkedin.com/in/odineiribeiro/)
+- [Telegram](https://www.t.me/odineiramone/)
+- [Email](mailto:odinei.ribeiro92@gmail.com)
