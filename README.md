@@ -2,7 +2,7 @@
 
 Desenvolvo softwares usando Ruby on Rails há uns 4 anos e gosto de fazer coisas divertidas!
 
-Faço parte do Grupo de Usuários de Ruby de São Paulo (GURU-SP) e membro ativo das comunidades de Ruby no Telegram como o Ruby Brasil. Gosto de ajudar pessoas que estão iniciando na carreira, ir em eventos e falar sobre desenvolvimento de software em geral.
+Faço parte da organização do [Grupo de Usuários de Ruby de São Paulo (GURU-SP)](https://www.gurusp.org/) e membro ativo das comunidades de Ruby no Telegram como o [Ruby Brasil](https://tm.me/rubybrasil/). Gosto de ajudar pessoas que estão iniciando na carreira, ir em eventos e falar sobre desenvolvimento de software em geral.
 
 Por falar em desenvolvimento de software, dê uma olhada em alguns programinhas que eu fiz nos projetos pinnados!
 
