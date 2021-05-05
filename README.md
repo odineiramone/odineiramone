@@ -1,6 +1,6 @@
 # Oi, eu sou o Odinei 🤓🤘
 
-Desenvolvo softwares usando Ruby on Rails há uns 4 anos e gosto de fazer coisas divertidas!
+Desenvolvo softwares usando Ruby on Rails há uns 5 anos e gosto de fazer coisas divertidas!
 
 Faço parte da organização do [Grupo de Usuários de Ruby de São Paulo (GURU-SP)](https://www.gurusp.org/) e membro ativo das comunidades de Ruby no Telegram como o [Ruby Brasil](https://tm.me/rubybrasil/). Gosto de ajudar pessoas que estão iniciando na carreira, ir em eventos e falar sobre desenvolvimento de software em geral.
 
