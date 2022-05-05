@@ -1,17 +1,19 @@
 # Oi, eu sou o Odinei 🤓🤘
 
-Desenvolvo softwares usando Ruby on Rails há uns 5 anos e gosto de fazer coisas divertidas!
+Desenvolvo softwares usando Ruby on Rails há alguns anos e gosto de fazer coisas divertidas!
 
-Faço parte da organização do [Grupo de Usuários de Ruby de São Paulo (GURU-SP)](https://www.gurusp.org/) e membro ativo das comunidades de Ruby no Telegram como o [Ruby Brasil](https://tm.me/rubybrasil/). Gosto de ajudar pessoas que estão iniciando na carreira, ir em eventos e falar sobre desenvolvimento de software em geral.
+Gosto muito das comunidades de Ruby on Rails e você pode sempre me achar lá no canal [Ruby Brasil no Telegram.](https://tm.me/rubybrasil/) Gosto de ajudar pessoas que estão iniciando na carreira, ir em eventos e falar sobre desenvolvimento de software em geral.
 
 Por falar em desenvolvimento de software, dê uma olhada em alguns programinhas que eu fiz nos projetos pinnados!
 
+Minha empreitada mais recente é me eventurar na programação funcional com Elixir com a galera da [Trybe](https://www.betrybe.com/). Toda essa mudança de linguagem e paradigma está sendo absurdamente divertida!
+
 Além disso tudo, também gosto de escrever sobre tecnologias, tocar baixo e ouvir música!
 
-Além daqui você pode me encontrar nas redes abaixo
+E você pode também me encontrar nas redes abaixo:
 
 - [Blog](http://codingwithchopsticks.github.io/)
-- [Twitter](https://www.twitter.com/odineiramone/)
+- [Email](mailto:odinei.ribeiro92@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/odineiribeiro/)
 - [Telegram](https://www.t.me/odineiramone/)
-- [Email](mailto:odinei.ribeiro92@gmail.com)
+- [Twitter](https://www.twitter.com/odineiramone/)
