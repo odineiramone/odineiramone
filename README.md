@@ -1,17 +1,15 @@
 # Oi, eu sou o Odinei 🤓🤘
 
-Desenvolvo software há alguns anos e gosto de fazer coisas divertidas e ajudar as pessoas!
+![](https://images.unsplash.com/photo-1680573346177-16adaf21f56f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
-Gosto muito das comunidades de Ruby on Rails e você pode sempre me achar lá no canal [Ruby Brasil no Telegram.](https://tm.me/rubybrasil/) Gosto de ajudar a galera que está iniciando na carreira de dev, ir em eventos e falar sobre desenvolvimento de software em geral.
+Olá! Me chamo Odinei, tenho 31 anos e gosto de ouvir música e tirar fotos. E entre uma coisa e outra eu programo 🧑‍💻
 
-Minha empreitada mais recente está sendo me aventurar na programação funcional com Elixir com a galera da [Trybe](https://www.betrybe.com/). Toda essa mudança de linguagem e paradigma está sendo absurdamente divertida!
+Atualmente tenho utilizado bastante Elixir e estou perdidamente apaixonado por programação funcional.
 
-Por falar em desenvolvimento de software, dê uma olhada em alguns programinhas que eu fiz nos projetos pinnados!
+Essa foto do [MASP](https://masp.org.br/) ai em cima fui eu quem tirou e você pode encontrar [mais fotos minhas aqui.](https://unsplash.com/@odineiramone)
 
-E você pode também me encontrar nas redes abaixo:
+E caso queira manter contato:
 
-- [Blog](http://codingwithchopsticks.github.io/)
-- [Email](mailto:odinei.ribeiro92@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/odineiribeiro/)
-- [Telegram](https://www.t.me/odineiramone/)
-- [Twitter](https://www.twitter.com/odineiramone/)
+- [linktr.ee/odineiramone](https://linktr.ee/odineiramone)
+- [dev.to/odineiamone](http://codingwithchopsticks.github.io/](https://dev.to/odineiramone))
+- [email](mailto:odinei.ribeiro92@gmail.com)
