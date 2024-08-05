@@ -2,7 +2,7 @@
 
 ![](https://images.unsplash.com/photo-1680573346177-16adaf21f56f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
-Olá! Me chamo Odinei, tenho 31 anos e gosto de ouvir música e tirar fotos. E entre uma coisa e outra eu programo 🧑‍💻
+Olá! Me chamo Odinei, tenho 32 anos e gosto de ouvir música e tirar fotos. E entre uma coisa e outra eu programo 🧑‍💻
 
 Atualmente tenho utilizado bastante Elixir e estou perdidamente apaixonado por programação funcional.
 
